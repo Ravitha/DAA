@@ -7,4 +7,5 @@
   * [Maximum Sum Contiguous Subsequence](divide-and-conquer-technique/maximum-sum-contiguous-sub-sequence.md)
   * [Comparison Between Quick Sort & Merge sort](divide-and-conquer-technique/comparison-between-quick-sort-and-merge-sort.md)
   * [Closest Pair of Points](divide-and-conquer-technique/closest-pair-of-points.md)
+* [Backtracking](backtracking.md)
 
